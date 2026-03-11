@@ -1,3 +1,3 @@
 # Samuel
-![exer](../Imagem/imagem1)
+![exer](../Imagem/imagem1.png)
 
